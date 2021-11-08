@@ -1,3 +1,13 @@
+<html>
+<head>
+<title>Titulo</title>
+<meta></meta>
+</head>
+
+<body>
 Hola a todos
 agregando mas lineas
 agregar otra linea adicional
+</body>
+
+</html>
